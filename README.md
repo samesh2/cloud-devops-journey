@@ -1,6 +1,3 @@
-# cloud-devops-journey
-Hands-on Cloud, DevOps, and Systems Engineering projects (AWS, Linux, Docker, CI/CD)
-
 # Cloud & DevOps Journey 🚀
 
 This repository documents my hands-on journey learning **Cloud Computing, DevOps, and Systems Engineering** with a focus on **real-world, production-style projects**.
